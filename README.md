@@ -1,2 +1,2 @@
 # Traffic-Signs-Classification
- Classifying traffic signs images with 2D convolutional neural network using TensorFlow Keras
+ Training 3 Convolutional Neural Networks to classify traffic signs images using TensorFlow Keras.
